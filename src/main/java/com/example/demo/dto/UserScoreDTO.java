@@ -8,6 +8,7 @@ public class UserScoreDTO {
     private Date timestamp;
     private int score;
 
+
     public UserScoreDTO() {
     }
 
